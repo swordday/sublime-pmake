@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>fileTypes</key>
+    <array>
+        <string>premake5.lua</string>
+        <string>premake</string>
+    </array>
+    <key>name</key>
+    <string>Premake</string>
+
+    <!-- code folding -->
+    <key>foldingStartMarker</key>
+    <string>^\s*\b(function|local\s+function|if|for)\b|{[ \t]*$|\[\[</string>
+    <key>foldingStopMarker</key>
+    <string>\bend\b|^\s*}|\]\]</string>
+
+    <key>scopeName</key>
+    <string>source.premake</string>
+    <key>uuid</key>
+    <string>4e20e032-26f9-424c-1110-970835861de8</string>
+</dict>
+</plist>
