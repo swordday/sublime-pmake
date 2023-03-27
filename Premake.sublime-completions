@@ -2,6 +2,16 @@
     "scope": "source.premake", 
     "completions": [
         
+        "_ACTION",
+        "_ARGS",       
+        "_MAIN_SCRIPT_DIR",
+        "_MAIN_SCRIPT",
+        "_OPTIONS",
+        "_TARGET_OS",
+        "_PREMAKE_COMMAND",
+        "_PREMAKE_DIR",
+        "_PREMAKE_VERSION",
+        "_WORKING_DIR",
         "iif",
         "include",
         "includeexternal",
