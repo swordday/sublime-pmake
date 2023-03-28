@@ -366,8 +366,7 @@
         "objdir",
         "omitframepointer",
         "openmp",
-        "optimize",
-        "Debug",
+        "optimize",        
         "Size",
         "Speed",
         "Full",
@@ -429,8 +428,7 @@
         "symbols",
         "FastLink",
         "Full",
-        "symbolspath",
-        "sysincludedirs",
+        "symbolspath",        
         "syslibdirs",
         "system",
         "aix",
@@ -492,6 +490,9 @@
         "None",
         "Dynamic",
         "Static",
+        "Debug",
+        "Release",
+        "Profile",
              
     ]
 }
